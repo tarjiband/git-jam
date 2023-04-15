@@ -1,3 +1,3 @@
 const mario = () => {
-  console.log(`mario`);
+  console.log(`marioooo`);
 };
